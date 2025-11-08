@@ -120,13 +120,6 @@ Visual narrative: business problem → patterns → insights → recommendations
 
 ---
 
-📊 Dashboard Snapshot
-
-
-
-
----
-
 📈 Key Results & Insights
 
 Identified top-performing regions and customer segments
